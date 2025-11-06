@@ -1,0 +1,15 @@
+loguru
+tqdm
+selenium
+pydantic
+pydantic-settings
+pymongo
+zenml
+sqlmodel
+passlib
+sqlalchemy_utils
+alembic
+beautifulsoup4
+requests
+lxml
+pymysql
